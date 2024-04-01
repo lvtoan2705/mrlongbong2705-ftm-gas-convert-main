@@ -1,0 +1,29 @@
+{
+  "name": "ftm-gas-convert",
+  "version": "1.0.0",
+  "description": "ftm-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xftm/ftm-gas-convert.git"
+  },
+  "keywords": [
+    "ftm-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "0xftm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xftm/ftm-gas-convert/issues"
+  },
+  "homepage": "https://github.com/0xftm/ftm-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
